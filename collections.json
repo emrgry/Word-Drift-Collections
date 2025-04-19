@@ -2,10 +2,12 @@
     "version": 1,
     "collections": {
         "fruits": {
-            "isImageSupported": true
+            "isImageSupported": true,
+            "availableLevel": 1
         },
         "animals": {
-            "isImageSupported": false
+            "isImageSupported": false,
+            "availableLevel": 5
         }
     }
 }
