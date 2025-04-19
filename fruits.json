@@ -1,0 +1,22 @@
+{
+    "id": "fruits",
+    "version": 1,
+    "name": {
+        "en": "Fruits",
+        "tr": "Meyveler"
+    },
+    "words": [
+        {
+            "en": "apple",
+            "tr": "elma"
+        },
+        {
+            "en": "banana",
+            "tr": "muz"
+        },
+        {
+            "en": "cherry",
+            "tr": "kiraz"
+        }
+    ]
+}
