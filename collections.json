@@ -3,6 +3,9 @@
     "collections": {
         "fruits": {
             "isImageSupported": true
+        },
+        "animals": {
+            "isImageSupported": false
         }
     }
 }
