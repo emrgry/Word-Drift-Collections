@@ -6,14 +6,17 @@
     },
     "words": [
         {
+            "hasImage": true,
             "en": "apple",
             "tr": "elma"
         },
         {
+            "hasImage": false,
             "en": "banana",
             "tr": "muz"
         },
         {
+            "hasImage": false,
             "en": "cherry",
             "tr": "kiraz"
         }
