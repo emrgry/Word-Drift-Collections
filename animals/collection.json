@@ -14,6 +14,7 @@
             "tr": "kedi"
         },
         {
+            "hasImage": true,
             "en": "lion",
             "tr": "aslan"
         },
@@ -22,6 +23,7 @@
             "tr": "kaplan"
         },
         {
+            "hasImage": true,
             "en": "bear",
             "tr": "ayı"
         },
@@ -44,6 +46,11 @@
         {
             "en": "monkey",
             "tr": "maymun"
+        },
+        {
+            "hasImage": true,
+            "en": "goat",
+            "tr": "keçi"
         }
     ]
 }
