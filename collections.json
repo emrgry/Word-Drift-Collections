@@ -1,52 +1,61 @@
 {
-    "version": 1,
     "collections": [
         {
+            "version": 1,
             "name": "colors",
             "isImageSupported": true,
             "availableLevel": 1
         },
         {
+            "version": 1,
             "name": "animals",
             "isImageSupported": true,
             "availableLevel": 1
         },
         {
+            "version": 1,
             "name": "fruits",
             "isImageSupported": true,
             "availableLevel": 1
         },
         {
+            "version": 1,
             "name": "vegetables",
             "isImageSupported": true,
             "availableLevel": 1
         },
         {
+            "version": 1,
             "name": "furniture",
             "isImageSupported": true,
             "availableLevel": 2
         },
         {
+            "version": 1,
             "name": "sports",
             "isImageSupported": true,
             "availableLevel": 2
         },
         {
+            "version": 1,
             "name": "vehicles",
             "isImageSupported": true,
             "availableLevel": 2
         },
         {
+            "version": 1,
             "name": "clothing",
             "isImageSupported": true,
             "availableLevel": 3
         },
         {
+            "version": 1,
             "name": "body",
             "isImageSupported": true,
             "availableLevel": 3
         },
         {
+            "version": 1,
             "name": "nature",
             "isImageSupported": true,
             "availableLevel": 3
