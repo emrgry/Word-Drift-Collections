@@ -1,13 +1,55 @@
 {
     "version": 1,
-    "collections": {
-        "fruits": {
+    "collections": [
+        {
+            "name": "colors",
             "isImageSupported": true,
             "availableLevel": 1
         },
-        "animals": {
-            "isImageSupported": false,
-            "availableLevel": 5
+        {
+            "name": "animals",
+            "isImageSupported": true,
+            "availableLevel": 1
+        },
+        {
+            "name": "fruits",
+            "isImageSupported": true,
+            "availableLevel": 1
+        },
+        {
+            "name": "vegetables",
+            "isImageSupported": true,
+            "availableLevel": 1
+        },
+        {
+            "name": "furniture",
+            "isImageSupported": true,
+            "availableLevel": 2
+        },
+        {
+            "name": "sports",
+            "isImageSupported": true,
+            "availableLevel": 2
+        },
+        {
+            "name": "vehicles",
+            "isImageSupported": true,
+            "availableLevel": 2
+        },
+        {
+            "name": "clothing",
+            "isImageSupported": true,
+            "availableLevel": 3
+        },
+        {
+            "name": "body",
+            "isImageSupported": true,
+            "availableLevel": 3
+        },
+        {
+            "name": "nature",
+            "isImageSupported": true,
+            "availableLevel": 3
         }
-    }
+    ]
 }

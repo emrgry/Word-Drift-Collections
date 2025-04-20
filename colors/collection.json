@@ -1,0 +1,49 @@
+{
+    "id": "colors",
+    "name": {
+        "en": "Colors",
+        "tr": "Renkler"
+    },
+    "words": [
+        {
+            "en": "red",
+            "tr": "kırmızı"
+        },
+        {
+            "en": "blue",
+            "tr": "mavi"
+        },
+        {
+            "en": "green",
+            "tr": "yeşil"
+        },
+        {
+            "en": "yellow",
+            "tr": "sarı"
+        },
+        {
+            "en": "black",
+            "tr": "siyah"
+        },
+        {
+            "en": "white",
+            "tr": "beyaz"
+        },
+        {
+            "en": "purple",
+            "tr": "mor"
+        },
+        {
+            "en": "orange",
+            "tr": "turuncu"
+        },
+        {
+            "en": "pink",
+            "tr": "pembe"
+        },
+        {
+            "en": "brown",
+            "tr": "kahverengi"
+        }
+    ]
+}

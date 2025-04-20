@@ -1,0 +1,49 @@
+{
+    "id": "sports",
+    "name": {
+        "en": "Sports",
+        "tr": "Sporlar"
+    },
+    "words": [
+        {
+            "en": "soccer",
+            "tr": "futbol"
+        },
+        {
+            "en": "basketball",
+            "tr": "basketbol"
+        },
+        {
+            "en": "tennis",
+            "tr": "tenis"
+        },
+        {
+            "en": "baseball",
+            "tr": "beyzbol"
+        },
+        {
+            "en": "golf",
+            "tr": "golf"
+        },
+        {
+            "en": "hockey",
+            "tr": "hokey"
+        },
+        {
+            "en": "swimming",
+            "tr": "yüzme"
+        },
+        {
+            "en": "running",
+            "tr": "koşu"
+        },
+        {
+            "en": "cycling",
+            "tr": "bisiklet"
+        },
+        {
+            "en": "skiing",
+            "tr": "kayak"
+        }
+    ]
+}

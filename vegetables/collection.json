@@ -1,0 +1,49 @@
+{
+    "id": "vegetables",
+    "name": {
+        "en": "Vegetables",
+        "tr": "Sebzeler"
+    },
+    "words": [
+        {
+            "en": "carrot",
+            "tr": "havuç"
+        },
+        {
+            "en": "potato",
+            "tr": "patates"
+        },
+        {
+            "en": "tomato",
+            "tr": "domates"
+        },
+        {
+            "en": "onion",
+            "tr": "soğan"
+        },
+        {
+            "en": "pepper",
+            "tr": "biber"
+        },
+        {
+            "en": "lettuce",
+            "tr": "marul"
+        },
+        {
+            "en": "cucumber",
+            "tr": "salatalık"
+        },
+        {
+            "en": "corn",
+            "tr": "mısır"
+        },
+        {
+            "en": "bean",
+            "tr": "fasulye"
+        },
+        {
+            "en": "garlic",
+            "tr": "sarımsak"
+        }
+    ]
+}

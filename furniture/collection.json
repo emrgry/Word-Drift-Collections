@@ -1,0 +1,49 @@
+{
+    "id": "furniture",
+    "name": {
+        "en": "Furniture",
+        "tr": "Mobilya"
+    },
+    "words": [
+        {
+            "en": "chair",
+            "tr": "sandalye"
+        },
+        {
+            "en": "table",
+            "tr": "masa"
+        },
+        {
+            "en": "bed",
+            "tr": "yatak"
+        },
+        {
+            "en": "sofa",
+            "tr": "kanepe"
+        },
+        {
+            "en": "desk",
+            "tr": "çalışma masası"
+        },
+        {
+            "en": "shelf",
+            "tr": "raf"
+        },
+        {
+            "en": "closet",
+            "tr": "dolap"
+        },
+        {
+            "en": "drawer",
+            "tr": "çekmece"
+        },
+        {
+            "en": "mirror",
+            "tr": "ayna"
+        },
+        {
+            "en": "lamp",
+            "tr": "lamba"
+        }
+    ]
+}

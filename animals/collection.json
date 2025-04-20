@@ -1,0 +1,49 @@
+{
+    "id": "animals",
+    "name": {
+        "en": "Animals",
+        "tr": "Hayvanlar"
+    },
+    "words": [
+        {
+            "en": "dog",
+            "tr": "köpek"
+        },
+        {
+            "en": "cat",
+            "tr": "kedi"
+        },
+        {
+            "en": "lion",
+            "tr": "aslan"
+        },
+        {
+            "en": "tiger",
+            "tr": "kaplan"
+        },
+        {
+            "en": "bear",
+            "tr": "ayı"
+        },
+        {
+            "en": "wolf",
+            "tr": "kurt"
+        },
+        {
+            "en": "bird",
+            "tr": "kuş"
+        },
+        {
+            "en": "fish",
+            "tr": "balık"
+        },
+        {
+            "en": "snake",
+            "tr": "yılan"
+        },
+        {
+            "en": "monkey",
+            "tr": "maymun"
+        }
+    ]
+}

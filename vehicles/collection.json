@@ -1,0 +1,49 @@
+{
+    "id": "vehicles",
+    "name": {
+        "en": "Vehicles",
+        "tr": "Araçlar"
+    },
+    "words": [
+        {
+            "en": "car",
+            "tr": "araba"
+        },
+        {
+            "en": "truck",
+            "tr": "kamyon"
+        },
+        {
+            "en": "bus",
+            "tr": "otobüs"
+        },
+        {
+            "en": "train",
+            "tr": "tren"
+        },
+        {
+            "en": "bike",
+            "tr": "bisiklet"
+        },
+        {
+            "en": "plane",
+            "tr": "uçak"
+        },
+        {
+            "en": "ship",
+            "tr": "gemi"
+        },
+        {
+            "en": "boat",
+            "tr": "tekne"
+        },
+        {
+            "en": "motorcycle",
+            "tr": "motosiklet"
+        },
+        {
+            "en": "helicopter",
+            "tr": "helikopter"
+        }
+    ]
+}
